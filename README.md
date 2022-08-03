@@ -5,3 +5,5 @@ This mini-project is an implementation of the popular vintage game, the Brick Sm
 
 https://user-images.githubusercontent.com/54746341/182599984-30747dcd-37f1-43ef-a896-f208dc05ba1e.mp4
 
+Credits to y friend Homaan for helping me with this project.
+
